@@ -8,8 +8,8 @@ class Point
         Point(int inX, int inY): x{inX}, y{inY} {} //ctor
         int getX() {return x;}
         int getY() {return y;}
-        int setX(int input) {x = input;}
-        int setY(int input) {y = input;}
+        void setX(int input) {x = input;}
+        void setY(int input) {y = input;}
     protected:
 
     private:

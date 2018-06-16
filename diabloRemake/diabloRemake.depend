@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1529132264 source:c:\users\curtis senpai\desktop\diabloremake\diabloremake\main.cpp
+1529134336 source:c:\users\curtis senpai\desktop\diabloremake\diabloremake\main.cpp
 	<iostream>
 	"Weapon.h"
 
@@ -13,11 +13,11 @@
 1529132296 source:c:\users\curtis senpai\desktop\diabloremake\diabloremake\src\point.cpp
 	"Point.h"
 
-1529132296 c:\users\curtis senpai\desktop\diabloremake\diabloremake\include\point.h
+1529134364 c:\users\curtis senpai\desktop\diabloremake\diabloremake\include\point.h
 
 1529130688 source:c:\users\curtis senpai\desktop\diabloremake\diabloremake\src\weapon.cpp
 	"Weapon.h"
 
-1529131009 c:\users\curtis senpai\desktop\diabloremake\diabloremake\include\weapon.h
+1529135797 c:\users\curtis senpai\desktop\diabloremake\diabloremake\include\weapon.h
 	<item.h>
 

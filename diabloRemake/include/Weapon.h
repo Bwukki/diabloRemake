@@ -4,6 +4,7 @@
 #include <item.h>
 
 enum damage {normal, divine, artillery, magic, projectile, chaos };
+enum type {Axe, ShortSword, LongSword, TwoHandSword, ShortBow, LongBow, Flail, Mace, Staff, Wand, Whip, Dagger, GreatAxe};
 
 class Weapon : public item
 {
